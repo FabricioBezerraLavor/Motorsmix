@@ -1,2 +1,0 @@
-# Motorsmix
-Projeto de testes
